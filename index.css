@@ -21,6 +21,14 @@ main {
   font-size: 50px;
   color: white;
 }
+.js-form {
+  font-size: 70px;
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  border-radius: 17px;
+  margin-bottom: 50px;
+}
 
 .greetings {
   font-size: 30px;
