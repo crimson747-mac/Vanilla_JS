@@ -21,8 +21,9 @@ main {
   font-size: 50px;
   color: white;
 }
-.js-form {
-  font-size: 70px;
+
+.js-form input {
+  font-size: 17px;
   text-align: center;
   width: 200px;
   height: 30px;
